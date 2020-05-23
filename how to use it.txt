@@ -1,0 +1,3 @@
+1- $cd (path of the download)/covid19tracker-master
+2- python manage.py runserver
+3- http://127.0.0.1:8000/tracker
